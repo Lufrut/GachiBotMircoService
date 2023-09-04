@@ -1,2 +1,7 @@
-package org.gachi.service;public class UpdateProducer {
+package org.gachi.service;
+
+import org.telegram.telegrambots.meta.api.objects.Update;
+
+public interface UpdateProducer {
+    void produce(String rabbitQueue, Update update);
 }

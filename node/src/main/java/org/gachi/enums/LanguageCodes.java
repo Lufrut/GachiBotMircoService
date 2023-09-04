@@ -1,2 +1,7 @@
-package org.gachi.enums;public enum LanguageCodes {
+package org.gachi.enums;
+
+public enum LanguageCodes {
+    UA,
+    EN,
+    RU
 }

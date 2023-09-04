@@ -37,4 +37,6 @@ build/
 ### Mac OS ###
 .DS_Store
 
-/src/main/resources/application.properties
+node/src/main/resources/application.properties
+dispatcher/src/main/resources/application.properties
+.idea/sonarlint

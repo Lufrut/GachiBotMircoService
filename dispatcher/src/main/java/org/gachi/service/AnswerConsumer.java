@@ -1,2 +1,7 @@
-package org.gachi.service;public interface AnswerConsumer {
+package org.gachi.service;
+
+import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
+
+public interface AnswerConsumer {
+    void consume(SendMessage sendMessage);
 }
