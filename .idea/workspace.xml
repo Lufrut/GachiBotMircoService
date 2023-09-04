@@ -4,92 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c32cec2-55f7-4860-8a23-830502e65d31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/dispatcher_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11a4b02fbfc5d50f1b99ceb26303bda93be1d0b1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14381916588f577fc8fff832a7fbbb2ed0506681" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c86513cd315eea94b6883c73933c707a7ff9efc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f944dccd64fda447e5d77fd6bfca75614a42704" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f50f6192549e2a9daec6450a194a7a28f588036" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b40f9918c8179611b0ee909b0994cd79eaeeee3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c23dca86dbb8d919de3fac63f16bc65366a07fa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d5862b35eabc5ab21607578eae46432c370fe15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86c92018b74f1e03396d249c330057e699cf3147" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f42774631649bb733ab8b36cb9d11bab059ff9f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8b5780d8de56e53762aa33e2772115363cacb12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b708fe65c81d3468d0cc7b81d11a1ea4a94a0690" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfefd9acf813286ed92c74698cca2e43b7f1df5e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1b4ed31d94fdcb4a9dc5274abb4e3ac74d02a87" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d227cef9d1f49b7dde7eac4e4d372f9253e95fae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecfbc8cd63c9281b00e42b744aa2a321f783ebd9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9c895bd48fd8be68c915c6b3071f52a75dc86c3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/1/11a4b02fbfc5d50f1b99ceb26303bda93be1d0b1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/4/14381916588f577fc8fff832a7fbbb2ed0506681" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c86513cd315eea94b6883c73933c707a7ff9efc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/f/2f944dccd64fda447e5d77fd6bfca75614a42704" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/f/3f50f6192549e2a9daec6450a194a7a28f588036" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/b/4b40f9918c8179611b0ee909b0994cd79eaeeee3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/c/4c23dca86dbb8d919de3fac63f16bc65366a07fa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/d/5d5862b35eabc5ab21607578eae46432c370fe15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/6/86c92018b74f1e03396d249c330057e699cf3147" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9f42774631649bb733ab8b36cb9d11bab059ff9f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/8/a8b5780d8de56e53762aa33e2772115363cacb12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/7/b708fe65c81d3468d0cc7b81d11a1ea4a94a0690" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bfefd9acf813286ed92c74698cca2e43b7f1df5e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/1/d1b4ed31d94fdcb4a9dc5274abb4e3ac74d02a87" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/2/d227cef9d1f49b7dde7eac4e4d372f9253e95fae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/c/ecfbc8cd63c9281b00e42b744aa2a321f783ebd9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/9/f9c895bd48fd8be68c915c6b3071f52a75dc86c3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/enums/CooldownNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/exception/CooldownNotExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/exception/InventoryNotExistException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-rabitmq/src/main/java/org/gachi/model/RabbitQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-rabitmq/src/main/java/org/gachi/model/RabbitQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/DispatcherApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/DispatcherApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/configuration/RabbitConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/configuration/RabbitConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/controller/TelegramBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/controller/TelegramBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/controller/UpdateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/controller/UpdateController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/service/AnswerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/service/AnswerConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/service/UpdateProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/service/UpdateProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/service/impl/AnswerConsumerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/service/impl/AnswerConsumerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/service/impl/UpdateProducerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/service/impl/UpdateProducerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/utils/MessageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/utils/MessageUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/NodeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/NodeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/configuration/Locales.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/configuration/Locales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/configuration/RabbitConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/configuration/RabbitConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/enums/LanguageCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/enums/LanguageCodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/enums/ServiceCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/enums/ServiceCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/Cooldown.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/Cooldown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/PlayerChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/model/PlayerChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/ChatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/ChatRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/CooldownRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/CooldownRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/InventoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/PlayerChatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/PlayerChatRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/PlayerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/repository/PlayerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/ConsumerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/ConsumerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/GameService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/MainService.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/MainService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/PlayerCommandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/PlayerCommandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/ProducerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/ProducerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/ConsumerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/ConsumerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/GameServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/GameServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/MainServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/MainServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/PlayerCommandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/PlayerCommandServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/ProducerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/ProducerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c32cec2-55f7-4860-8a23-830502e65d31" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -277,5 +192,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature added GameService which provides major functionality of bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature added GameService which provides major functionality of bot" />
   </component>
 </project>
