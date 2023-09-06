@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c32cec2-55f7-4860-8a23-830502e65d31" name="Changes" comment="" />
+    <list default="true" id="1c32cec2-55f7-4860-8a23-830502e65d31" name="Changes" comment="merged Feature_game_service_dev into dev">
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/controller/WebHookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/controller/TelegramBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/org/gachi/controller/TelegramBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/ConsumerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/ConsumerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/GameServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/node/src/main/java/org/gachi/service/impl/GameServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,6 +54,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/super/idea/GachiBOt/dispatcher&quot;,
@@ -76,7 +86,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.NodeApplication">
+  <component name="RunManager" selected="Maven.GachiBOt [install]">
     <configuration name="GachiBOt [install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -187,7 +197,18 @@
       <workItem from="1693730446957" duration="8197000" />
       <workItem from="1693813274734" duration="2529000" />
       <workItem from="1693849018093" duration="281000" />
+      <workItem from="1693857430717" duration="1027000" />
+      <workItem from="1693903654959" duration="5217000" />
+      <workItem from="1693988159578" duration="1149000" />
     </task>
+    <task id="LOCAL-00001" summary="merged Feature_game_service_dev into dev">
+      <created>1693849650588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693849650588</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +219,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="refactor_to_webhook" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -206,6 +239,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature added GameService which provides major functionality of bot" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature added GameService which provides major functionality of bot" />
+    <MESSAGE value="merged Feature_game_service_dev into dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="merged Feature_game_service_dev into dev" />
   </component>
 </project>

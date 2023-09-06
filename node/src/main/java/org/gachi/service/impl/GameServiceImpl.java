@@ -176,7 +176,7 @@ public class GameServiceImpl implements GameService {
         if (
                 isCooldownPassProxy(
                         playerChat,
-                        CooldownNames.DRINK_CUM_COOLDOWN.getCooldownInMinutes()
+                        CooldownNames.GET_SLAVE_COOLDOWN.getCooldownInMinutes()
                 )
         ) {
             int gotSlaves = findSlaves(playerChat);

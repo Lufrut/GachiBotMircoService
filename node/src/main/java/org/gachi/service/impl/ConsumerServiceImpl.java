@@ -22,6 +22,8 @@ public class ConsumerServiceImpl implements ConsumerService {
     @Override
     @RabbitListener(queues = TEXT_MESSAGE_UPDATE)
     public void consumerTextMessageUpdates(Update update) {
-        mainService.commandSorter(update);
+        if (update != null) {
+            mainService.commandSorter(update);
+        }
     }
 }

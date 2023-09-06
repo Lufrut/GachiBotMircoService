@@ -64,7 +64,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>org.gachi.DispatcherApplication</mainClass>
+                    <mainClass>org.gachi.NodeApplication</mainClass>
                     <layout>JAR</layout>
                 </configuration>
             </plugin>
